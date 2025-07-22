@@ -93,26 +93,11 @@ If you find this project helpful:
 ## 🧑‍💻 About the Author
 
 **Niaj Ahmed**  
-📍 ML Enthusiast & Self-Taught Developer  
-📫 [GitHub](https://github.com/niaj-a) *(Add your LinkedIn or personal website if you'd like)*
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.  
-Feel free to use, modify, and share!
-
----
-
-## 🔍 SEO Keywords (for Google and GitHub Discovery)
-
-## 🧑‍💻 Author
-
-**Niaj Ahmed**  
+📍 Bachelor's in Computational Science & Artificial Intelligence 
+📍 Lappeenranta-Lahti University of Technology
+📍 Finland
 📫 [GitHub](https://github.com/niaj-a) | 🌐 [LinkedIn](https://www.linkedin.com/in/niaj-ahmed/) 
 
----
 
 ## ⚠️ License
 
